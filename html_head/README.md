@@ -1,2 +1,3 @@
 ![Orange Ebb and Flow Abstract LinkedIn Banner](https://github.com/user-attachments/assets/56c82e45-6591-4157-adf3-153efe5143fe)
 <h1 align="center"> ₊✩‧₊˚౨ৎ˚₊✩‧₊HTML Head Tags! ₊✩‧₊˚౨ৎ˚₊✩‧₊ </h1>
+This project is about learning HTML tags and how to apply them into our code. The HTML <head> tag is a container for metadata (data about the webpage). It contains important elements like the title, meta tags for SEO purposes, and links to stylesheets and scripts. The contents are not visible to users, but they are important for the webpages structure and performance. We are also using this project as a base for the Smile School project aka the HTML Advanced project 

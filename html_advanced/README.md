@@ -8,3 +8,12 @@ What is the DOM
 What is an element / tag
 What is an attribute
 What the purpose of each HTML tag
+<ol>
+  <li>What is HTML</li>
+  <li>How to create an HTML page from a wireframe</li>
+  <li>What is a markup language</li>
+  <li>What is the DOM</li>
+  <li>What is an element / tag</li>
+  <li>What is an attribute</li>
+  <li>What is the purpose of each HTML tag</li>
+</ol>

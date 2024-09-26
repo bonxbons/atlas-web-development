@@ -1,6 +1,6 @@
 ![HTML ADVANCED](https://github.com/user-attachments/assets/9ee40f43-d5c7-47a3-bd67-e95b1998bd6e)
 <h1 align="center">⋆｡‧˚ʚɞ˚‧｡⋆HTML Advanced⋆｡‧˚ʚɞ˚‧｡⋆</h1>
-<h3 align="left"> Project learning goals:</h3>
+<h3 align="center"> Project learning goals:</h3>
 <ul>
   <li>What is HTML</li>
   <li>How to create an HTML page from a wireframe</li>

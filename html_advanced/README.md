@@ -10,3 +10,4 @@
   <li>What is an attribute</li>
   <li>What is the purpose of each HTML tag</li>
 </ul>
+This project is about writing a webpage with HTML from stratch!

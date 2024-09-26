@@ -10,4 +10,5 @@
   <li>What are Box properties in CSS</li>
   <li>How does the browser load a webpage</li>
 </ul>
-<h3 align="center">This project is about implementing CSS into the HTML webpage we made!</h3>
+<h3 align="center">This project is about implementing CSS into the HTML webpage I made in HTML Advanced!</h3>
+https://bonxbons.github.io/atlas-web-development/css_advanced/

@@ -55,7 +55,7 @@ header {
     display: flex;
     flex-direction: column;
     padding: 100px;
-    background-image: url('images/Object.png');
+    background-image: url("images/bannerBackground.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
